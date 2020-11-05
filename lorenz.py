@@ -16,9 +16,9 @@ pasos=10000
 
 # vectores estado
 
-xs=np.empty(pasos+1)
-ys=np.empty(pasos+1)
-zs=np.empty(pasos+1)
+xs=np.zeros(pasos+1)
+ys=np.zeros(pasos+1)
+zs=np.zeros(pasos+1)
 
 # condiciones iniciales
 
